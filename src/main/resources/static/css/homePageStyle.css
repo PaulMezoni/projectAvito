@@ -1,0 +1,94 @@
+.popular {
+    margin: 80px 150px 0 150px;
+}
+
+.cards_with_popular_products {
+    float: left;
+    margin: 30px 5px 130px 30px;
+}
+
+.top {
+    padding-top: 20px;
+    padding-left: 150px;
+}
+
+.d-flex {
+    float: left;
+    margin-left: 600px;
+}
+
+.popular_shops {
+    float: left;
+    margin: 30px 5px 130px 30px;
+}
+
+.navbar-brand {
+    padding-left: 20px;
+}
+
+.search {
+    position: absolute;
+    left: 50%;
+    margin-left: -400px;
+}
+
+.btn-group {
+    padding-right: 150px;
+}
+
+.basket {
+
+    margin-left: 1040px;
+}
+
+.btn_danger_out {
+    margin-left: 10px;
+}
+
+.display-4 {
+    padding-top: 10px;
+}
+
+.jumbotron {
+    background-color: #F8F9FA;
+    padding-top: 20px;
+}
+
+.lead {
+    padding-bottom: 20px;
+}
+
+.top_search {
+    padding-bottom: 20px;
+}
+
+.text-footer {
+    color: gray;
+    padding-left: 200px;
+}
+
+.input-button {
+    padding-right: 160px;
+}
+
+.button-in {
+    padding: 30px 300px 0 190px;
+}
+
+.form-check {
+    padding-top: 10px;
+
+}
+
+.image-header {
+    padding-left: 155px;
+    padding-top: 55px;
+    padding-bottom: 65px;
+}
+.alert {
+    margin-top: 5px;
+}
+.user-tag {
+    color: grey;
+    padding-top: 30px;
+}
